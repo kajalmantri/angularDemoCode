@@ -6,7 +6,7 @@
     };
 
     angular
-        .module('app')
+        .module('demoApp')
         .controller('MainController', MainController);
 
 })();

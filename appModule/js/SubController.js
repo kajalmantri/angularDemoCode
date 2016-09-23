@@ -14,7 +14,7 @@
 
     SubController.$inject = ['$scope'];
     angular
-        .module('macPro')
+        .module('demoApp')
         .controller('SubController', SubController);
 
 })();
